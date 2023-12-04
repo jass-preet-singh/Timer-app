@@ -1,4 +1,3 @@
-// Timer.js
 import React, { useEffect, useState } from 'react';
 import Button from './Button';
 import Input from './Input';
